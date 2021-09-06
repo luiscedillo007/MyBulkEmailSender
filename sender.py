@@ -15,3 +15,4 @@ body = "Subject: {}\n\n{}".format(subject,msg)
 for email in emails:
     server.sendmail(SenderAddress, email, body)
 server.quit()
+print("Done")
