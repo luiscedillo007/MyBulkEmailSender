@@ -1,6 +1,8 @@
 import pandas as pd
 import smtplib
 
+# v-1
+
 SenderAddress = "russell.cedillo3@gmail.com"
 password = "Numz21$hoe"
 
